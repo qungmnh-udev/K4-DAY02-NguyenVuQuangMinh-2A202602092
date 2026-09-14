@@ -7,7 +7,7 @@
 
 ## 1. Bài độc lập và nguồn dữ liệu
 
-- Mã SHA-256 của ZIP ảnh được cấp: `c8bbc767d8bb9a29f4ca5abf0c3516e5c2af94c58143a980b0148cfe0b500d2b`
+- Mã SHA-256 của ZIP ảnh được cấp: `f7d99888f21440fb0374d84962b93213bd8c14e665d093cc8d37f4c61b71ed33`
 - Bốn mã ảnh: `drive_008, drive_022, drive_033, drive_038`
 - Số vật thể thực tế: `82`
 - Mã SHA-256 của gói YOLO của bạn: `ee3d98fba5009218a765c20f54afa2aca561a7d2c26104747dff938b739a706c`
